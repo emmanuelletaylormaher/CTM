@@ -1,0 +1,25 @@
+#All MPOS
+MPOS = {"Abilene": {"Jones": "253", "Taylor": "441"},
+        "Amarillo": {"Potter": "375", "Randall": "381"},
+        "Brownsville": {"Cameron": "061"},
+        "Bryan-College Station": {"Brazos": "041"}, 
+        "Capital Area": {"Bastrop": "021", "Burnet": "053", "Caldwell": "055", "Hays": "209", "Travis": "453", "Williamson": "491"},
+        "Corpus Christi": {"Aransas": "007", "Nueces": "355", "San Patricio": "409"},
+        "El Paso": {"Atascosa": "013", "El Paso": "141"},
+        "Harlingen-San Benito": {"Cameron": "061"},
+        "Hidalgo": {"Hidalgo": "215"},
+        "Killeen-Temple": {"Bell": "027", "Coryell": "099", "Lampasas": "281" },
+        "Laredo": {"Webb": "479"},
+        "Longview": {"Gregg": "183", "Harrison": "203", "Rusk": "401", "Upshur": "459"},
+        "LRGV": {"Cameron": "061", "Hidalgo": "215"},
+        "Lubbock": {"Lubbock": "303"},
+        "Midland-Odessa": {"Ector": "135", "Midland": "329"},
+        "San Angelo": {"Tom Green": "451"},
+        "Sherman-Denison": {"Grayson": "181"},
+        "South East Texas": {"Hardin": "199", "Jefferson": "245", "Orange": "361"},
+        "Texarkana": {"Bowie": "037", "Comal": "091"},
+        "Victoria": {"Victoria": "469"},
+        "Waco": {"McLennan": "309"},
+        "Witchita Falls": {"Archer": "009", "Wichita": "485"}
+        }
+
